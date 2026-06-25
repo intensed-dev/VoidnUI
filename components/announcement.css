@@ -2,4 +2,8 @@
   display: flex;
   width: 100%;
   padding: 6px;
+  background-color: var(--base-100);
+  border: 1px solid var(--base-200);
+  border-left: 0;
+  border-right: 0;
 }
