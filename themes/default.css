@@ -1,0 +1,5 @@
+:root {
+  --base-100: oklch(90% 0 0);
+  --base-200: oklch(70% 0 0);
+  --base-300: oklch(50% 0 0);
+}
