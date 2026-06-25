@@ -1,5 +1,5 @@
 /* ========== THEMES ========== */
-@import "./themes/default.css"
+@import "/themes/default.css"
 
 /* ========== COMPONENTS ========== */
-@import "./components/announcement.css"
+@import "/components/announcement.css"
