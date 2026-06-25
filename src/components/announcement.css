@@ -1,5 +1,6 @@
 .announcement {
   display: flex;
+  text-align: center;
   width: 100%;
   padding: 6px;
   background-color: var(--base-100);
