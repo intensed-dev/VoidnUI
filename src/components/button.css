@@ -1,0 +1,14 @@
+.button {
+  display: inline-block;
+  padding: 0.75rem 1rem;
+  border: none;
+  border-radius: var(--radius);
+  background: var(--base-200);
+  color: white;
+  cursor: pointer;
+  transition: .2s;
+}
+
+.button:hover {
+  filter: brightness(.9);
+}
